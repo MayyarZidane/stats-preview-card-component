@@ -111,7 +111,7 @@ body {
   .stats-preview-card p {
     margin-bottom: 60px;
     padding: 0px 15px 0px 0px;
-    font-size: 13px;
+    font-size: 0.8125rem;
   }
 }
 
@@ -144,7 +144,7 @@ body {
   display: block;
   margin: 5px 0px 15px;
   color: var(--slightly-transparent-white-headings);
-  font-size: 10px;
+  font-size: 0.625rem;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
